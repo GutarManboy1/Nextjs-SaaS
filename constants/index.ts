@@ -70,4 +70,31 @@ export const recentSessions = [
     duration: 10,
     color: "#C8FFDF",
   },
+  {
+  id: "7",
+  subject: "history",
+  name: "Time Travelers' Tales",
+  topic: "Ancient Civilizations and Their Legacy",
+  duration: 12,
+  color: "#FFD6A5",
+},
+{
+  id: "8",
+  subject: "science",
+  name: "Cosmic Curiosity",
+  topic: "Introduction to the Solar System",
+  duration: 15,
+  color: "#A0C4FF",
+},
+{
+  id: "9",
+  subject: "literature",
+  name: "Poetic Pulse",
+  topic: "Exploring Classic Poetry Forms",
+  duration: 8,
+  color: "#FFADAD",
+}
+
+
+
 ];
